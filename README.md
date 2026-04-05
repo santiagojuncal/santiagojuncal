@@ -22,7 +22,7 @@
 
   <br clear="right"/>
 </div>
-<h3>Cuenta Main Github <a href="https://github.com/1vcbGH">1vcbGH</a></h3>
+<p>Cuenta Main Github <a href="https://github.com/1vcbGH">1vcbGH</a></p>
 ---
 
 ## 🚀 Trabajo actual
