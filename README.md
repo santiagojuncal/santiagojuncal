@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
   </p>
+  <h2>Cuenta Main Github <a href="https://github.com/1vcbGH">1vcbGH</a></h2>
 
   <br clear="right"/>
 </div>
