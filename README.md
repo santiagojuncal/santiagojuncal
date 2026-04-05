@@ -121,6 +121,3 @@
 
 ---
 
-## 📫 Contacto
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat"> contacto.santiagojuncal@gmail.com
