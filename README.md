@@ -22,8 +22,9 @@
 
   <br clear="right"/>
 </div>
-<p>Cuenta Main Github <a href="https://github.com/1vcbGH">1vcbGH</a></p>
----
+<p align="right">
+  Cuenta Main Github <a href="https://github.com/1vcbGH">1vcbGH</a>
+</p>
 
 ## 🚀 Trabajo actual
 
