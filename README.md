@@ -1,27 +1,21 @@
-<table>
-<tr>
-<td width="65%">
+<div align="left">
+  <img align="right" src="photos/IMG_2007.JPEG" width="230">
 
-<h1>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif" width="25"></h1>
+  <h1>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif" width="25"></h1>
 
-<p>
-<strong>Desarrollador Full Stack</strong> enfocado en desarrollo web.<br>
-CEO y desarrollador en <a href="https://impulsodigital.uy">ImpulsoDigital</a>, creando soluciones digitales escalables y listas para producción.
-</p>
+  <p>
+    <strong>Desarrollador Full Stack</strong> enfocado en desarrollo web.<br>
+    CEO y desarrollador en <a href="https://impulsodigital.uy">ImpulsoDigital</a>, creando soluciones digitales escalables y listas para producción.
+  </p>
 
-<p>
-<a href="https://www.linkedin.com/in/santiago-juncal-536b39385/">
-<img src="https://img.shields.io/badge/LinkedIn-Santiago%20Juncal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/santiago-juncal-536b39385/">
+      <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Juncal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
 
-</td>
-
-<td width="35%" align="center">
-<img src="photos/IMG_2007.JPEG" width="230">
-</td>
-</tr>
-</table>
+  <br clear="right"/>
+</div>
 
 ---
 
