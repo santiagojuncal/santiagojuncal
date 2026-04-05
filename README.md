@@ -17,6 +17,8 @@
   <br clear="right"/>
 </div>
 
+---
+
 ## 🚀 Trabajo actual
 
 - CEO y Desarrollador Web en <a href="https://impulsodigital.uy">impulsodigital.uy</a>
