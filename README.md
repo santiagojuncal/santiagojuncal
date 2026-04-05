@@ -21,6 +21,9 @@
 
 - CEO y Desarrollador Web en <a href="https://impulsodigital.uy">impulsodigital.uy</a>
 
+---
+
+
 ## 🧠 Stack tecnológico
 
 ### 🧩 Lenguajes y base
