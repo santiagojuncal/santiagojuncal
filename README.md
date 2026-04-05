@@ -1,13 +1,11 @@
 <div align="left">
   
   <h1>Santiago <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Animated-Flag-Uruguay.gif?20070209182129" width="25"></h1> 
-  <img align='right' src="https://i.imgur.com/TsGujdu.png" style="border-radius:50%;" width="230">
+  <img align='right' src="https://imgur.com/a/ZZf0N05" style="border-radius:50%;" width="230">
   <p><strong>CEO & Fullstack Developer</strong> at <a href="https://dsc.gg/blacknova">Impulsodigital</a></p>
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santi.juncal/)
-
----
 
 <h2>🚀 Current Work</h2>
 
