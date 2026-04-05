@@ -12,8 +12,8 @@
     <a href="https://www.linkedin.com/in/santiago-juncal-536b39385/">
       <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Juncal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santi.juncal/)
   </p>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santi.juncal/)
 
   <br clear="right"/>
 </div>
