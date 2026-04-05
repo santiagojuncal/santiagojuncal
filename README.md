@@ -3,6 +3,8 @@
   <p><strong>CEO & Fullstack Developer</strong> at <a href="https://dsc.gg/blacknova">Impulsodigital</a></p>
 </div>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santi.juncal/)
+
 ---
 
 <h2>🚀 Current Work</h2>
