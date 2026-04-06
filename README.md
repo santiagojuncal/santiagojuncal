@@ -9,7 +9,7 @@
    </p>
     <p>
     <strong>Desarrollando <a href="https://github.com/santiagojuncal/opencanvas-creator">OpenCanvas Creator (OpenSource)</a></strong> , crea tu propia landing page facil, rapido y sencillo, no necesitas
-    conocimiento previo en programacion, solo arrastra, edita y listo para produccion.
+    conocimiento previo en programacion, solo arrastra, edita y listo para producción.
   </p>
 
   <p>
