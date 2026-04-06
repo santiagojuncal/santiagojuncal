@@ -6,6 +6,8 @@
   <p>
     <strong>Desarrollador Full Stack</strong> enfocado en desarrollo web.<br>
     CEO y desarrollador en <a href="https://impulsodigital.up.railway.app/">ImpulsoDigital</a>, creando soluciones digitales escalables y listas para producción.
+    Desarrollando <a href="https://github.com/santiagojuncal/opencanvas-creator">OpenCanvas Creator (OpenSource)</a>, crea tu propia landing page facil, rapido y sencillo, no necesitas
+    conocimiento previo en programacion, solo arrastra, edita y listo para produccion.
   </p>
 
   <p>
